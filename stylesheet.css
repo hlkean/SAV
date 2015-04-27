@@ -1,1 +1,79 @@
 /*CSS Stylesheet*/
+@import url(http://fonts.googleapis.com/css?family=Dosis|Roboto);
+
+body{
+
+background-color:rgba(52, 46, 48, 1);}
+
+#psa{
+  
+width: 100%;
+    height: auto;
+}
+#first{
+border-bottom: 0;
+    background-color:rgba(0,115,126,1.0); 
+ 
+}
+
+img{
+
+}
+#second{
+ 
+}
+.poster{
+width:100%;
+    height:auto;
+}
+.ribbon{
+width:auto;
+    height:100%;
+    align-content: center;
+    float:left;
+}
+p{
+margin-top: 10%;
+    color: white;
+}
+
+.fact{
+font-family: 'Roboto', sans-serif;
+    font-size: 5em;
+    margin-left: 5%;
+}
+
+.citation{
+font-family: 'Dosis', sans-serif;
+    font-size: 2em;
+    margin-left: 45%;
+}
+
+#res{
+margin-top: 2%;
+}
+a{
+text-decoration: none;
+    color: inherit;
+}
+
+.linkOne{
+margin-top: 5%;
+    font-family: 'Dosis', sans-serif;
+    
+}
+
+.linkTwo{
+margin-top: 5%;
+    font-family: 'Dosis', sans-serif;
+}
+
+.info{
+margin-top: 5%;
+   font-family: 'Dosis', sans-serif;
+    font-size: 2em;
+}
+
+#hotLine{
+text-decoration-line: underline;
+}
